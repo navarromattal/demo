@@ -1,5 +1,7 @@
+
 {
-  "User": {
-    "title": { "string": {} }
+  "test-hooks": {
+    "externalId": "",
+    "content": ""
   }
 }
